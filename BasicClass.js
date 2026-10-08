@@ -15,3 +15,7 @@ class Car {
 const car1 = new Car("Toyota", "Camry");
 
 car1.start();
+
+
+//output:
+Toyota Camry is starting.
